@@ -1,4 +1,7 @@
-.hll { background-color: #404040 }
+.hll {
+    background-color: #404040;
+    padding: 1px 0.5em 1px 0.5em;
+ }
 .c { color: #999999; font-style: italic } /* Comment */
 .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .esc { color: #d0d0d0 } /* Escape */

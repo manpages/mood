@@ -2,7 +2,7 @@ extends outer
 
 block inner
 	section.Body.Capsule.Articles
-		h1 Le blog
+		h1 Here Be Dragons
 		include blocks/aside
 		.Content
 			- foreach (post; posts)
